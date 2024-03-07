@@ -28,6 +28,10 @@ The goal of this project is to build a web application that allows users to inpu
 - **CSS**: Cascading Style Sheets for styling the web page.
 - **JavaScript**: Programming language for adding interactivity to the web page.
 
+<img width="1416" alt="Screenshot 2024-03-06 at 8 41 32 PM" src="https://github.com/MagdaSlifierz/ai-text-summarizer/assets/49603115/8f3b2ee9-9a9c-49d8-8229-15bacf8344d8">
+<img width="1416" alt="Screenshot 2024-03-06 at 8 42 56 PM" src="https://github.com/MagdaSlifierz/ai-text-summarizer/assets/49603115/0f0c6090-a98d-45bf-b212-7c55dd5afdd5">
+
+
 ## Getting Started
 
 To begin with, make sure you have an account on Replit and Postman. Follow the instructions provided in each module to set up your development environment and start building the application.
